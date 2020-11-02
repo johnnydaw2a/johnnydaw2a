@@ -1,5 +1,3 @@
-! [] (https://blog.openclassrooms.com/es/wp-content/uploads/sites/5/2017/09/AdobeStock_126016889apaisado.jpg)
-
 ### Bienvenidos 👋
 Me llamo Johnny Bermúdez  
 Estoy estudiando DAW en el CEP
