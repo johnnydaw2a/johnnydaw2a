@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/bb/9a/bc/bb9abc4776b64bcb0b6207d4405be55f.gif)
+![](https://efa-centro.org/wp-content/uploads/2018/06/daw.png)
 ## Bienvenidos 👋
 Me llamo Johnny Bermúdez  
 Estoy estudiando DAW en el CEP
