@@ -1,4 +1,6 @@
 ### Bienvenidos 👋
+Me llamo Johnny Bermúdez
+Estoy estudiando DAW en el CEP
 
 <!--
 **johnnydaw2a/johnnydaw2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
