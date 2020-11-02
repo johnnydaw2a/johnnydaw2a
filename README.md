@@ -1,4 +1,4 @@
-![](https://www.micoworker.com/sites/default/files/2017-07/diseno-y-desarrollo-de-aplicaciones-web_6.gif)
+![](https://i.pinimg.com/originals/bb/9a/bc/bb9abc4776b64bcb0b6207d4405be55f.gif)
 ## Bienvenidos 👋
 Me llamo Johnny Bermúdez  
 Estoy estudiando DAW en el CEP
